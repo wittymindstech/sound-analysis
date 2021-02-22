@@ -14,8 +14,10 @@ analyse a pattern in recorded voice. i.e sound of traffic, cricket match, storm,
 ` python demo_tempo.py sample.mp3 `
 
 
+# High Confidence Audio
 ![](output1.png)
 
+# Low Confidence Audio
 ![](output2.png)
 
 
